@@ -20,5 +20,5 @@
 This project is open-source and free to use.  
 
 ## 📞 Contact  
-- **GitHub**: [Anothai](https://github.com/an-layniao/my-login.git)  
+- **GitHub**: [anthai-my-login](https://github.com/an-layniao/my-login.git)  
 - **Email**: an.layniao@gmail.com  
