@@ -13,7 +13,7 @@
 ## 🔧 Technologies Used  
 - Frontend: Next.js / Angular / Sass 
 - Backend: GO (Fiber)  
-- Database: MySQL
+- Database: MongoDB
 - Authentication: JWT (JSON Web Token)  
 
 ## 📄 License  
